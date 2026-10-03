@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="cassymod"
+version="1.0"
+displayName="Cassy The Dinosaur"
+authors="Tú"
+description="Añade un pequeño y adorable dinosaurio llamado Cassy a Minecraft."
